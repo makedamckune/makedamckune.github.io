@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Life of an American Underdog "
-date:       2019-11-05 20:39:43 +0000
+date:       2019-11-05 15:39:44 -0500
 permalink:  life_of_an_american_underdog
 ---
 
