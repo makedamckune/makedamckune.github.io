@@ -6,7 +6,6 @@ permalink:  life_of_an_american_underdog
 ---
 
 
-```
 
 
 
