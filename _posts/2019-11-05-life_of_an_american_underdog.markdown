@@ -5,6 +5,11 @@ date:       2019-11-05 15:39:44 -0500
 permalink:  life_of_an_american_underdog
 ---
 
+
+```
+
+
+
 >"***With but few expections, it is always the underdog who wins through sheer willpower.***"- *Johnny Weissmuller*
 
   <p>      According to the Oxford dictionary, the definition of an underdog is given two definitions. The first one states, >"a competiotor thought to have little chance of winning a fight or contest". While the second definition states, >"a person who has little status in society". The underdog term is a noun that is used to identify me. I am an underdog. Where ever I went, my work, character, and ablities were always underestimated. There have been numerous times in which my actions and/or intelligence surprised other people. Including myself.</p>
@@ -15,4 +20,6 @@ permalink:  life_of_an_american_underdog
 	<br>
 			My status went from being the dumb kid, to the kid who worked her way up to being smart. Fast forward to today, my love for all subjects have grown. The greatest lesson ever taught, was for me to put the necessary work into my passions. From there, I can do anything I put my mind into. No matter the coding language. Life is all about learning. With time, patience,  and commitment, nothing can stop you from that dream. Till this day,others will still underestimate my abilities. However, I push myself until the end. Even though I may fail. Getting up and trying again is the only option. I'm working to becoming a better me everyday. While constantly reminding myself that even a lose, is a win.
 
+
+```
 
